@@ -79,6 +79,14 @@ main()
 	
 	cout<<"--------------------------------------------"<<endl;
 	
+	cout<<"Roll number ->"<<s1.roll<<endl;
+	cout<<"Name ->"<<s1.name<<endl;
+	cout<<"Standard ->"<<s1.std<<endl;
+	cout<<"Contact Detail ->"<<s1.contact<<endl;
+	cout<<"Address ->"<<s1.ad<<endl;
+	
+	cout<<endl;
+	
 	cout<<"Roll number ->"<<s2.roll<<endl;
 	cout<<"Name ->"<<s2.name<<endl;
 	cout<<"Standard ->"<<s2.std<<endl;
@@ -103,14 +111,6 @@ main()
 	
 	cout<<endl;
 	
-	cout<<"Roll number ->"<<s4.roll<<endl;
-	cout<<"Name ->"<<s4.name<<endl;
-	cout<<"Standard ->"<<s4.std<<endl;
-	cout<<"Contact Detail ->"<<s4.contact<<endl;
-	cout<<"Address ->"<<s4.ad<<endl;
-	
-	cout<<endl;
-	
 	cout<<"Roll number ->"<<s5.roll<<endl;
 	cout<<"Name ->"<<s5.name<<endl;
 	cout<<"Standard ->"<<s5.std<<endl;
@@ -119,4 +119,3 @@ main()
 	
 	cout<<endl;
 }
-
